@@ -15,4 +15,3 @@ try:
     print (month_to_season(season))
 except ValueError:
     print ("Введите целое число от 1 до 12")
-    
